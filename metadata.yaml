@@ -1,0 +1,50 @@
+_repo: Tibetan-Grammar_69207
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jäschke, H. A. (Heinrich August)
+    aliases:
+    - Jaschke, H. A. (Heinrich August)
+    - Jäschke, Heinrich August
+    - Jaeschke, H. A. (Heinrich August)
+    - Jäscke, H. A. (Heinrich August)
+    birthdate: 1817
+    deathdate: 1883
+    gutenberg_agent_id: '55163'
+    url: http://www.gutenberg.org/2009/agents/55163
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Heinrich_August_J%C3%A4schke
+    - https://de.wikipedia.org/wiki/Heinrich_August_J%C3%A4schke
+  editor:
+    agent_name: Wenzel, H. (Heinrich)
+    alias: Wenzel, Heinrich
+    birthdate: 1855
+    deathdate: 1893
+    gutenberg_agent_id: '55164'
+    url: http://www.gutenberg.org/2009/agents/55164
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Heinrich_Wenzel
+    - https://de.wikipedia.org/wiki/Heinrich_Wenzel
+description: ''
+gutenberg_issued: '2022-10-22'
+identifiers:
+  gutenberg: '69207'
+  lccn: '12014846'
+language: en
+pgterms:marc904: https://archive.org/details/b30094161/page/74/mode/2up
+pgterms:marc905: 20200522061335jschke
+pgterms:marc906: '1883'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Trübner and Co.,1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tibetan language -- Grammar'
+- !lcc 'PL'
+- GITenberg
+title: Tibetan Grammar
+url: http://www.gutenberg.org/ebooks/69207
