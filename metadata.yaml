@@ -1,5 +1,8 @@
 _repo: Tibetan-Grammar_69207
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69207-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Jäschke, H. A. (Heinrich August)
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Heinrich_Wenzel
     - https://de.wikipedia.org/wiki/Heinrich_Wenzel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69207#Tibetan-Grammar
 gutenberg_issued: '2022-10-22'
 identifiers:
   gutenberg: '69207'
